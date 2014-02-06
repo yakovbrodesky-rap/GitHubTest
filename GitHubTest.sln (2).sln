@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "GitHubTest", "C:\Working\GitHubTest", "{1A0D7F55-9B7D-496C-9B89-205C2D54B2DB}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/GitHubTest"
+		Debug.AspNetCompiler.PhysicalPath = "C:\Working\GitHubTest\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\GitHubTest\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/GitHubTest"
+		Release.AspNetCompiler.PhysicalPath = "C:\Working\GitHubTest\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\GitHubTest\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "61392"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A0D7F55-9B7D-496C-9B89-205C2D54B2DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A0D7F55-9B7D-496C-9B89-205C2D54B2DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
